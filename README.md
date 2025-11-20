@@ -1,3 +1,4 @@
+[![Step 0](https://github.com/sherry-li-1214/skills-introduction-to-codeql/actions/workflows/0-start-exercise.yml/badge.svg)](https://github.com/sherry-li-1214/skills-introduction-to-codeql/actions/workflows/0-start-exercise.yml)
 <div align="center">
 
 # 🎉 Congratulations sherry-li-1214! 🎉
